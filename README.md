@@ -1,34 +1,96 @@
-<h1 align="center">Hi 👋, I'm Mridul Bhardwaz</h1>
-<h3 align="center">A full stack developer|Built full-stack web apps (MERN, DSA-powered), solve real problems with scalable, user-first solutions — blending technical depth with practical impact.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mri-hslr&label=Profile%20views&color=0e75b6&style=flat" alt="mri-hslr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mri-hslr" alt="mri-hslr" /></a> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Mridul+Bhardwaz;Full+Stack+Developer+%7C+Solving+Problems;Building+Scalable+Solutions+%E2%9A%A1;Code+%E2%9D%A4%EF%B8%8F+Coffee+%E2%9D%A4%EF%B8%8F+Creativity" alt="Typing SVG" />
+</div>
 
-<p align="left"> <a href="https://twitter.com/@mri3231" target="blank"><img src="https://img.shields.io/twitter/follow/@mri3231?logo=twitter&style=for-the-badge" alt="@mri3231" /></a> </p>
+---
 
-- 🔭 I’m currently working on **rubick cube solver**
+## 🚀 About Me
 
-- 🌱 I’m currently learning **react,mysql and machine learning**
+**A passionate full-stack developer** who transforms ideas into digital reality! I build full-stack web apps (MERN, DSA-powered) and solve real problems with scalable, user-first solutions — blending technical depth with practical impact.
 
-- 👯 I’m looking to collaborate on [timetable optimization](https://github.com/mri-hslr/timettable_optimization)
-
-- 👨‍💻 All of my projects are available at [https://portfolio-rho-ochre-67.vercel.app/](https://portfolio-rho-ochre-67.vercel.app/)
-
+- 🔭 I'm currently working on **Rubik's Cube Solver**
+- 🌱 I'm currently learning **React, MySQL and Machine Learning**
+- 👯 I'm looking to collaborate on [Timetable Optimization](https://github.com/mri-hslr/timettable_optimization)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-rho-ochre-67.vercel.app/)
 - 📫 How to reach me **mridulbhardwaj13@gmail.com**
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vmQnHmPZaY4rdnVFfRJlj_LICFzyVeFf/view?usp=sharing)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vmQnHmPZaY4rdnVFfRJlj_LICFzyVeFf/view?usp=sharing](https://drive.google.com/file/d/1vmQnHmPZaY4rdnVFfRJlj_LICFzyVeFf/view?usp=sharing)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@mri3231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mri3231" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/johanliebert77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="johanliebert77" height="30" width="40" /></a>
-</p>
+## 🛠️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,java,html,css,react,nodejs,mongodb,mysql,git,github,postman,r&theme=dark" alt="Tech Stack" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mri-hslr&show_icons=true&locale=en&layout=compact" alt="mri-hslr" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mri-hslr&show_icons=true&locale=en" alt="mri-hslr" /></p>
+## 🔥 Current Projects & Obsessions
 
+### 🎯 What I'm Building:
+- **Rubik's Cube Solver** - Because solving puzzles is my jam! 🧩
+- **Timetable Optimization** - Making schedules smarter with algorithms 📅
+- **Learning Journey** - Diving deep into React, MySQL, and ML 🚀
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mri-hslr&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mri-hslr&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=mri-hslr&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mri-hslr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mri-hslr&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🌐 Let's Connect!
+
+<div align="center">
+  <a href="https://twitter.com/@mri3231">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.leetcode.com/johanliebert77">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:mridulbhardwaj13@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
+  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mri-hslr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+</div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Enhanced with animated elements for maximum coding vibes! -->
