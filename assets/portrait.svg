@@ -3,15 +3,11 @@
         height="887"
         viewBox="0 0 696.60 886.88">
 
-<style>
-    .portrait {
-        font-family: monospace;
-        font-size: 12.9px;
-        font-weight: 400;
-        fill: currentColor;
-    }
-</style>
-
+        <rect
+            width="100%"
+            height="100%"
+            fill="#0D1117"/>
+        
 <defs>
 
             <clipPath id="row-0">
@@ -25,7 +21,7 @@
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="0.0s"
+                        begin="0.00s"
                         fill="freeze"/>
                 </rect>
             </clipPath>
@@ -110,7 +106,7 @@
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="0.44999999999999996s"
+                        begin="0.45s"
                         fill="freeze"/>
                 </rect>
             </clipPath>
@@ -178,7 +174,7 @@
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="0.8099999999999999s"
+                        begin="0.81s"
                         fill="freeze"/>
                 </rect>
             </clipPath>
@@ -195,7 +191,7 @@
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="0.8999999999999999s"
+                        begin="0.90s"
                         fill="freeze"/>
                 </rect>
             </clipPath>
@@ -280,7 +276,7 @@
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="1.3499999999999999s"
+                        begin="1.35s"
                         fill="freeze"/>
                 </rect>
             </clipPath>
@@ -331,7 +327,7 @@
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="1.6199999999999999s"
+                        begin="1.62s"
                         fill="freeze"/>
                 </rect>
             </clipPath>
@@ -365,7 +361,7 @@
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="1.7999999999999998s"
+                        begin="1.80s"
                         fill="freeze"/>
                 </rect>
             </clipPath>
@@ -484,7 +480,7 @@
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="2.4299999999999997s"
+                        begin="2.43s"
                         fill="freeze"/>
                 </rect>
             </clipPath>
@@ -535,7 +531,7 @@
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="2.6999999999999997s"
+                        begin="2.70s"
                         fill="freeze"/>
                 </rect>
             </clipPath>
@@ -586,7 +582,7 @@
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="2.9699999999999998s"
+                        begin="2.97s"
                         fill="freeze"/>
                 </rect>
             </clipPath>
@@ -637,7 +633,7 @@
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="3.2399999999999998s"
+                        begin="3.24s"
                         fill="freeze"/>
                 </rect>
             </clipPath>
@@ -705,7 +701,7 @@
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="3.5999999999999996s"
+                        begin="3.60s"
                         fill="freeze"/>
                 </rect>
             </clipPath>
@@ -756,7 +752,7 @@
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="3.8699999999999997s"
+                        begin="3.87s"
                         fill="freeze"/>
                 </rect>
             </clipPath>
@@ -824,7 +820,7 @@
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="4.2299999999999995s"
+                        begin="4.23s"
                         fill="freeze"/>
                 </rect>
             </clipPath>
@@ -875,7 +871,7 @@
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="4.5s"
+                        begin="4.50s"
                         fill="freeze"/>
                 </rect>
             </clipPath>
@@ -943,7 +939,7 @@
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="4.859999999999999s"
+                        begin="4.86s"
                         fill="freeze"/>
                 </rect>
             </clipPath>
@@ -955,7 +951,10 @@
                 <text
                     x="0"
                     y="16.12"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -963,14 +962,14 @@
                     y="0.00"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="0.0s"
+                        begin="0.00s"
                         fill="freeze"/>
                 </rect>
 
@@ -982,7 +981,10 @@
                 <text
                     x="0"
                     y="32.25"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -990,7 +992,7 @@
                     y="16.12"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -1009,7 +1011,10 @@
                 <text
                     x="0"
                     y="48.38"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1017,7 +1022,7 @@
                     y="32.25"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -1036,7 +1041,10 @@
                 <text
                     x="0"
                     y="64.50"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1044,7 +1052,7 @@
                     y="48.38"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -1063,7 +1071,10 @@
                 <text
                     x="0"
                     y="80.62"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1071,7 +1082,7 @@
                     y="64.50"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -1090,7 +1101,10 @@
                 <text
                     x="0"
                     y="96.75"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%##%%%%%%@@@@@%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1098,14 +1112,14 @@
                     y="80.62"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="0.44999999999999996s"
+                        begin="0.45s"
                         fill="freeze"/>
                 </rect>
 
@@ -1117,7 +1131,10 @@
                 <text
                     x="0"
                     y="112.88"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%###%%%%%%@@@@@%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1125,7 +1142,7 @@
                     y="96.75"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -1144,7 +1161,10 @@
                 <text
                     x="0"
                     y="129.00"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%#########c*+-::`.....`+%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1152,7 +1172,7 @@
                     y="112.88"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -1171,7 +1191,10 @@
                 <text
                     x="0"
                     y="145.12"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@%%%%%%######+:...                .-s%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1179,7 +1202,7 @@
                     y="129.00"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -1198,7 +1221,10 @@
                 <text
                     x="0"
                     y="161.25"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@@@%%%%%%####ssc+-`.....                    .c#%%%%%%@@@@@@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1206,14 +1232,14 @@
                     y="145.12"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="0.8099999999999999s"
+                        begin="0.81s"
                         fill="freeze"/>
                 </rect>
 
@@ -1225,7 +1251,10 @@
                 <text
                     x="0"
                     y="177.38"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@%%%#####c*-...........                        .s#%%%%@@@@@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1233,14 +1262,14 @@
                     y="161.25"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="0.8999999999999999s"
+                        begin="0.90s"
                         fill="freeze"/>
                 </rect>
 
@@ -1252,7 +1281,10 @@
                 <text
                     x="0"
                     y="193.50"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@%%%#ss#s-..                                     ..s#%%%@@@@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1260,7 +1292,7 @@
                     y="177.38"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -1279,7 +1311,10 @@
                 <text
                     x="0"
                     y="209.62"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@%%#scs+.                                         ..##%%%@@@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1287,7 +1322,7 @@
                     y="193.50"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -1306,7 +1341,10 @@
                 <text
                     x="0"
                     y="225.75"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@%#ssc-..                                           .c%%%%@@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1314,7 +1352,7 @@
                     y="209.62"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -1333,7 +1371,10 @@
                 <text
                     x="0"
                     y="241.88"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@%#sc*`..                                           ..=%%%@@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1341,7 +1382,7 @@
                     y="225.75"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -1360,7 +1401,10 @@
                 <text
                     x="0"
                     y="258.00"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@%%#s*-...                      ......                ..#%%%@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1368,14 +1412,14 @@
                     y="241.88"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="1.3499999999999999s"
+                        begin="1.35s"
                         fill="freeze"/>
                 </rect>
 
@@ -1387,7 +1431,10 @@
                 <text
                     x="0"
                     y="274.12"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@%#sc=...       ...```:``:``.............            ..*%%%@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1395,7 +1442,7 @@
                     y="258.00"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -1414,7 +1461,10 @@
                 <text
                     x="0"
                     y="290.25"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@%%#s+`..     ..`:-==+****++=--:::::::::```...        ...%%%%@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1422,7 +1472,7 @@
                     y="274.12"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -1441,7 +1491,10 @@
                 <text
                     x="0"
                     y="306.38"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@%%#*`..    ..`:-=+*ccssscc*++=========--:```..       ..%%%%@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1449,14 +1502,14 @@
                     y="290.25"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="1.6199999999999999s"
+                        begin="1.62s"
                         fill="freeze"/>
                 </rect>
 
@@ -1468,7 +1521,10 @@
                 <text
                     x="0"
                     y="322.50"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@%%##=.     ..:-=++*css#sssc**++++++++===-:```..       :%%%@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1476,7 +1532,7 @@
                     y="306.38"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -1495,7 +1551,10 @@
                 <text
                     x="0"
                     y="338.62"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@%%##.     ..:-=+*css####sscc***++++++==-:````..      =%%%@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1503,14 +1562,14 @@
                     y="322.50"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="1.7999999999999998s"
+                        begin="1.80s"
                         fill="freeze"/>
                 </rect>
 
@@ -1522,7 +1581,10 @@
                 <text
                     x="0"
                     y="354.75"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@@%%#c     .`:-=+**cs####ssccc**+*++++==-:`````.      =%%@@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1530,7 +1592,7 @@
                     y="338.62"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -1549,7 +1611,10 @@
                 <text
                     x="0"
                     y="370.88"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@@%%##.    `:--==+**csssscccccc*++++=-:``....```.    .*%%%@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1557,7 +1622,7 @@
                     y="354.75"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -1576,7 +1641,10 @@
                 <text
                     x="0"
                     y="387.00"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@@@%%#c    `:::::``.....`:=****++=:..........````.   .*%%%@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1584,7 +1652,7 @@
                     y="370.88"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -1603,7 +1671,10 @@
                 <text
                     x="0"
                     y="403.12"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@@@%%#s=   `--==---`....`:-+**+=:............``::. ..`+%%@@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1611,7 +1682,7 @@
                     y="387.00"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -1630,7 +1701,10 @@
                 <text
                     x="0"
                     y="419.25"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@@@@%##*+. :-==-``:.. ..`:=+**+-.....:`..`..``:::`...`s%%%@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1638,7 +1712,7 @@
                     y="403.12"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -1657,7 +1731,10 @@
                 <text
                     x="0"
                     y="435.38"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@@@@%##c*:.:-=++==---:`::-=+**=:....`:---:::::--::...`#%%%@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1665,7 +1742,7 @@
                     y="419.25"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -1684,7 +1761,10 @@
                 <text
                     x="0"
                     y="451.50"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@@@@%%#s=-.:-=+*******+==++***=-`...`-=++++==---::.`.+%%%@@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1692,14 +1772,14 @@
                     y="435.38"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="2.4299999999999997s"
+                        begin="2.43s"
                         fill="freeze"/>
                 </rect>
 
@@ -1711,7 +1791,10 @@
                 <text
                     x="0"
                     y="467.62"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@@@@@%##c=-:-=+**ccccc******c*+-`...:-=****+==--::``=%%%%@@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1719,7 +1802,7 @@
                     y="451.50"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -1738,7 +1821,10 @@
                 <text
                     x="0"
                     y="483.75"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@@@@@%%##c+::==+*ccccccc***cc*+-`...`-+****+=--:::`-#%%%@@@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1746,7 +1832,7 @@
                     y="467.62"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -1765,7 +1851,10 @@
                 <text
                     x="0"
                     y="499.88"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@%###c+:--=+*ccccc*******+=`....:-+**+=-:::`=s#%%%@@@@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1773,14 +1862,14 @@
                     y="483.75"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="2.6999999999999997s"
+                        begin="2.70s"
                         fill="freeze"/>
                 </rect>
 
@@ -1792,7 +1881,10 @@
                 <text
                     x="0"
                     y="516.00"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@%%##sc`::-=++++=+===-===:.   ..:-==--:`...##%%%%@@@@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1800,7 +1892,7 @@
                     y="499.88"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -1819,7 +1911,10 @@
                 <text
                     x="0"
                     y="532.12"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@%%###:..`:--------:```:.      .`:::``...:##%%@@@@@@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1827,7 +1922,7 @@
                     y="516.00"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -1846,7 +1941,10 @@
                 <text
                     x="0"
                     y="548.25"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@%%%#s..``:::```:``````..      ..```....s%%%@@@@@@@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1854,14 +1952,14 @@
                     y="532.12"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="2.9699999999999998s"
+                        begin="2.97s"
                         fill="freeze"/>
                 </rect>
 
@@ -1873,7 +1971,10 @@
                 <text
                     x="0"
                     y="564.38"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@%%#c.```:::::::::::``... ...````....`%%%@@@@@@@@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1881,7 +1982,7 @@
                     y="548.25"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -1900,7 +2001,10 @@
                 <text
                     x="0"
                     y="580.50"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@%%##:.``::--=====--:::`````````.....#%%%@@@@@@@@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1908,7 +2012,7 @@
                     y="564.38"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -1927,7 +2031,10 @@
                 <text
                     x="0"
                     y="596.62"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@%%##s`.``::=++**++=-:::::::::`.....###%@@@@@@@@@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1935,14 +2042,14 @@
                     y="580.50"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="3.2399999999999998s"
+                        begin="3.24s"
                         fill="freeze"/>
                 </rect>
 
@@ -1954,7 +2061,10 @@
                 <text
                     x="0"
                     y="612.75"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@%%%#sc:`.``:=+*cc*+=----:-:::`... .c##%%%@@@@@@@@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1962,7 +2072,7 @@
                     y="596.62"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -1981,7 +2091,10 @@
                 <text
                     x="0"
                     y="628.88"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@%%%%%c  .::```:=****+=--:::::``.   .. .c%%%%%@@@@@@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -1989,7 +2102,7 @@
                     y="612.75"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -2008,7 +2121,10 @@
                 <text
                     x="0"
                     y="645.00"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@%%%%%#*   .:---``:--=--::`:```..          *%%%%%%@@@@@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -2016,7 +2132,7 @@
                     y="628.88"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -2035,7 +2151,10 @@
                 <text
                     x="0"
                     y="661.12"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@@@@@@%%%%%%#%#-    `-=====:`````````....   ....     =#%%%%%%%%@@@@@@@@@@@@@@@@</text>
 
                 <rect
@@ -2043,14 +2162,14 @@
                     y="645.00"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="3.5999999999999996s"
+                        begin="3.60s"
                         fill="freeze"/>
                 </rect>
 
@@ -2062,7 +2181,10 @@
                 <text
                     x="0"
                     y="677.25"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@@@@@%%%%%%%%%%%#c..    `==++*++=-:````.............       +#%%%%%%%%%%%@@@@@@@@@@@</text>
 
                 <rect
@@ -2070,7 +2192,7 @@
                     y="661.12"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -2089,7 +2211,10 @@
                 <text
                     x="0"
                     y="693.38"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@@@@@@%%%%%%%%%%%%%#*..... ...-++*****+==-::````...```...         -#%%%%%%%%%%%@%%@@@@@@</text>
 
                 <rect
@@ -2097,7 +2222,7 @@
                     y="677.25"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -2116,7 +2241,10 @@
                 <text
                     x="0"
                     y="709.50"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">@@@%%%%%%%%%%%%%%#+`. ...... ....-+*ccccc*++=--::::::::``..            .+#%%#%%%%%%%%%%%%@</text>
 
                 <rect
@@ -2124,14 +2252,14 @@
                     y="693.38"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="3.8699999999999997s"
+                        begin="3.87s"
                         fill="freeze"/>
                 </rect>
 
@@ -2143,7 +2271,10 @@
                 <text
                     x="0"
                     y="725.62"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">%%%%%%%%%%%%##-....     .... .....:+*ccccc**++==-----:::`..                .-s#%#%%%%%%%%%</text>
 
                 <rect
@@ -2151,7 +2282,7 @@
                     y="709.50"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -2170,7 +2301,10 @@
                 <text
                     x="0"
                     y="741.75"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">%%%%%####*`...           ...........:+******+++=====--:``..                  ...`-s####%%#</text>
 
                 <rect
@@ -2178,7 +2312,7 @@
                     y="725.62"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -2197,7 +2331,10 @@
                 <text
                     x="0"
                     y="757.88"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">####s:....                 ..........`:=+++=+=++*+++=-:`..                      ......-s##</text>
 
                 <rect
@@ -2205,7 +2342,7 @@
                     y="741.75"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -2224,7 +2361,10 @@
                 <text
                     x="0"
                     y="774.00"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">+`...                      .....      .``:::--=+***+=-:`.                                 </text>
 
                 <rect
@@ -2232,14 +2372,14 @@
                     y="757.88"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="4.2299999999999995s"
+                        begin="4.23s"
                         fill="freeze"/>
                 </rect>
 
@@ -2251,7 +2391,10 @@
                 <text
                     x="0"
                     y="790.12"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">..                         ....         ...`::-=+**+=-`.                                  </text>
 
                 <rect
@@ -2259,7 +2402,7 @@
                     y="774.00"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -2278,7 +2421,10 @@
                 <text
                     x="0"
                     y="806.25"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">..                          ...            ..`:-++++-`.                                   </text>
 
                 <rect
@@ -2286,7 +2432,7 @@
                     y="790.12"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -2305,7 +2451,10 @@
                 <text
                     x="0"
                     y="822.38"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">                                            ..`:-==`.                                     </text>
 
                 <rect
@@ -2313,14 +2462,14 @@
                     y="806.25"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="4.5s"
+                        begin="4.50s"
                         fill="freeze"/>
                 </rect>
 
@@ -2332,7 +2481,10 @@
                 <text
                     x="0"
                     y="838.50"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">                                             ..`:`                                        </text>
 
                 <rect
@@ -2340,7 +2492,7 @@
                     y="822.38"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -2359,7 +2511,10 @@
                 <text
                     x="0"
                     y="854.62"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">                                             ....                                         </text>
 
                 <rect
@@ -2367,7 +2522,7 @@
                     y="838.50"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -2386,7 +2541,10 @@
                 <text
                     x="0"
                     y="870.75"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">                                                                                          </text>
 
                 <rect
@@ -2394,7 +2552,7 @@
                     y="854.62"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
@@ -2413,7 +2571,10 @@
                 <text
                     x="0"
                     y="886.88"
-                    class="portrait"
+                    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+                    font-size="12.9px"
+                    font-weight="400"
+                    fill="#A9FEF7"
                     xml:space="preserve">                                                                                          </text>
 
                 <rect
@@ -2421,14 +2582,14 @@
                     y="870.75"
                     width="7"
                     height="16.12"
-                    fill="currentColor">
+                    fill="#A9FEF7">
 
                     <animate
                         attributeName="x"
                         from="0"
                         to="696.60"
                         dur="0.8s"
-                        begin="4.859999999999999s"
+                        begin="4.86s"
                         fill="freeze"/>
                 </rect>
 
