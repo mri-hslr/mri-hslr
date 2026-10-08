@@ -668,104 +668,199 @@ def contribution_character(count, maximum):
 
 
 def generate_year_svg(days):
+    """
+    Render the last 365 days as a GitHub-style contribution grid.
+    """
 
-    width = 900
-    height = 360
+    WIDTH = 900
+    CELL = 11
+    GAP = 4
+    LEFT = 45
+    TOP = 35
 
-    parts = svg_start(
-        width,
-        height,
-        "YEAR / CONTRIBUTIONS"
-    )
-
-    max_count = max(
-        [item["count"] for item in days] or [1]
-    )
-
-    # 53 columns × 7 rows
-    cell_w = 15
-    cell_h = 34
-
-    start_x = 30
-    start_y = 70
-
-    first_date = days[0]["date"]
-
-    # Align to Sunday
-    first_date -= timedelta(
-        days=(first_date.weekday() + 1) % 7
-    )
-
+    # Map date -> contribution count
     contribution_map = {
         item["date"]: item["count"]
         for item in days
     }
 
-    for i in range(365):
+    # Use the maximum contribution count to create 5 intensity levels.
+    counts = [
+        count
+        for count in contribution_map.values()
+        if count > 0
+    ]
 
-        current_date = first_date + timedelta(days=i)
+    max_count = max(counts, default=1)
 
-        count = contribution_map.get(
-            current_date,
-            0
-        )
+    def level(count):
+        if count <= 0:
+            return 0
 
-        week = (
-            current_date - first_date
-        ).days // 7
+        ratio = count / max_count
 
-        weekday = (
-            current_date.weekday() + 1
-        ) % 7
+        if ratio <= 0.15:
+            return 1
+        elif ratio <= 0.35:
+            return 2
+        elif ratio <= 0.65:
+            return 3
+        else:
+            return 4
 
-        x = start_x + week * cell_w
-        y = start_y + weekday * cell_h
+    # GitHub contribution calendar starts weeks on Sunday.
+    first_date = min(contribution_map.keys())
+    first_sunday = first_date - timedelta(days=(first_date.weekday() + 1) % 7)
 
-        char = contribution_character(
-            count,
-            max_count
-        )
+    # 53 weeks × 7 days
+    weeks = 53
 
-        safe_char = (
-            char
-            .replace("&", "&amp;")
-            .replace("<", "&lt;")
-            .replace(">", "&gt;")
-        )
+    width = LEFT + weeks * (CELL + GAP) + 20
+    height = TOP + 7 * (CELL + GAP) + 35
+
+    colors = [
+        "#21262D",  # 0 contributions
+        "#163B3B",  # level 1
+        "#1F6F68",  # level 2
+        "#2FA89B",  # level 3
+        "#A9FEF7",  # level 4
+    ]
+
+    parts = [
+        f'<svg xmlns="http://www.w3.org/2000/svg" '
+        f'width="{width}" height="{height}" '
+        f'viewBox="0 0 {width} {height}">',
+
+        '<rect width="100%" height="100%" fill="#0D1117"/>',
+
+        '<text x="0" y="18" '
+        'font-family="JetBrains Mono, DejaVu Sans Mono, monospace" '
+        'font-size="13" fill="#8B949E" letter-spacing="1.5">'
+        'YEAR / CONTRIBUTIONS'
+        '</text>'
+    ]
+
+    # Draw contribution cells
+    for week in range(weeks):
+        for weekday in range(7):
+
+            current_date = (
+                first_sunday
+                + timedelta(days=week * 7 + weekday)
+            )
+
+            # Only display the requested 365-day period.
+            if current_date < first_date or current_date >= first_date + timedelta(days=365):
+                continue
+
+            count = contribution_map.get(current_date, 0)
+            cell_level = level(count)
+
+            x = LEFT + week * (CELL + GAP)
+            y = TOP + weekday * (CELL + GAP)
+
+            parts.append(
+                f'<rect '
+                f'x="{x}" '
+                f'y="{y}" '
+                f'width="{CELL}" '
+                f'height="{CELL}" '
+                f'rx="2" '
+                f'fill="{colors[cell_level]}">'
+                f'<title>{current_date}: {count} contributions</title>'
+                f'</rect>'
+            )
+
+    # Month labels
+    month_positions = {}
+
+    for week in range(weeks):
+        current_date = first_sunday + timedelta(days=week * 7)
+
+        if current_date.month not in month_positions:
+            month_positions[current_date.month] = (
+                week,
+                current_date.strftime("%b")
+            )
+
+    for week, month_name in month_positions.values():
+        x = LEFT + week * (CELL + GAP)
 
         parts.append(
-            f'''
-<text
-    x="{x}"
-    y="{y}"
-    font-family="{FONT}"
-    font-size="16"
-    fill="{FG}"
-    text-anchor="middle">{safe_char}</text>
-'''
+            f'<text '
+            f'x="{x}" '
+            f'y="{TOP - 8}" '
+            f'font-family="JetBrains Mono, DejaVu Sans Mono, monospace" '
+            f'font-size="10" '
+            f'fill="#8B949E">'
+            f'{month_name}'
+            f'</text>'
+        )
+
+    # Weekday labels
+    weekday_labels = {
+        1: "Mon",
+        3: "Wed",
+        5: "Fri",
+    }
+
+    for weekday, label in weekday_labels.items():
+        y = TOP + weekday * (CELL + GAP) + 9
+
+        parts.append(
+            f'<text '
+            f'x="0" '
+            f'y="{y}" '
+            f'font-family="JetBrains Mono, DejaVu Sans Mono, monospace" '
+            f'font-size="9" '
+            f'fill="#8B949E">'
+            f'{label}'
+            f'</text>'
+        )
+
+    # Legend
+    legend_y = height - 15
+
+    parts.append(
+        f'<text '
+        f'x="{LEFT}" '
+        f'y="{legend_y}" '
+        f'font-family="JetBrains Mono, DejaVu Sans Mono, monospace" '
+        f'font-size="9" '
+        f'fill="#8B949E">'
+        f'less'
+        f'</text>'
+    )
+
+    legend_x = LEFT + 30
+
+    for i, color in enumerate(colors):
+        x = legend_x + i * (CELL + GAP)
+
+        parts.append(
+            f'<rect '
+            f'x="{x}" '
+            f'y="{legend_y - 9}" '
+            f'width="{CELL}" '
+            f'height="{CELL}" '
+            f'rx="2" '
+            f'fill="{color}"/>'
         )
 
     parts.append(
-        f'''
-<text
-    x="30"
-    y="330"
-    font-family="{FONT}"
-    font-size="11"
-    fill="{MUTED}">less</text>
-
-<text
-    x="100"
-    y="330"
-    font-family="{FONT}"
-    font-size="11"
-    fill="{MUTED}">more</text>
-'''
+        f'<text '
+        f'x="{legend_x + 5 * (CELL + GAP) + 5}" '
+        f'y="{legend_y}" '
+        f'font-family="JetBrains Mono, DejaVu Sans Mono, monospace" '
+        f'font-size="9" '
+        f'fill="#8B949E">'
+        f'more'
+        f'</text>'
     )
 
-    return svg_end(parts)
+    parts.append("</svg>")
 
-
+    return "\n".join(parts)
 def main():
 
     os.makedirs(
