@@ -87,7 +87,7 @@ Math → Implement → Experiment → Measure → Understand → Build again
 
 <br><br>
 
-<img src="./assets/year.svg" alt="Yearly contribution activity">
+<img src="./assets/year.svg?v=2" alt="Yearly contribution activity">
 
 </div>
 
