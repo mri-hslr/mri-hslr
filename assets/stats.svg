@@ -1,0 +1,410 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+width="900"
+height="230"
+viewBox="0 0 900 230">
+
+<rect
+    width="100%"
+    height="100%"
+    rx="12"
+    fill="#0D1117"
+    stroke="#30363D"
+    stroke-width="1"/>
+
+
+<text
+    x="24"
+    y="34"
+    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+    font-size="14"
+    fill="#8B949E"
+    letter-spacing="1">CONTRIBUTIONS / LAST 365 DAYS</text>
+
+
+<text
+    x="24"
+    y="100"
+    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+    font-size="54"
+    font-weight="700"
+    fill="#A9FEF7">415</text>
+
+<text
+    x="27"
+    y="128"
+    font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
+    font-size="13"
+    fill="#8B949E">total contributions</text>
+
+
+<polyline
+    points="250.00,162.93 261.96,180.00 273.92,180.00 285.88,180.00 297.84,162.93 309.80,172.41 321.76,172.41 333.73,180.00 345.69,180.00 357.65,172.41 369.61,172.41 381.57,164.83 393.53,176.21 405.49,161.03 417.45,168.62 429.41,162.93 441.37,174.31 453.33,164.83 465.29,180.00 477.25,180.00 489.22,180.00 501.18,176.21 513.14,178.10 525.10,174.31 537.06,170.52 549.02,149.66 560.98,109.83 572.94,70.00 584.90,98.45 596.86,170.52 608.82,149.66 620.78,180.00 632.75,180.00 644.71,170.52 656.67,178.10 668.63,178.10 680.59,159.14 692.55,136.38 704.51,134.48 716.47,142.07 728.43,121.21 740.39,162.93 752.35,168.62 764.31,180.00 776.27,178.10 788.24,166.72 800.20,180.00 812.16,180.00 824.12,180.00 836.08,180.00 848.04,180.00 860.00,161.03"
+    fill="none"
+    stroke="#A9FEF7"
+    stroke-width="2"/>
+
+
+<circle
+    cx="250.00"
+    cy="162.93"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="261.96"
+    cy="180.00"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="273.92"
+    cy="180.00"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="285.88"
+    cy="180.00"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="297.84"
+    cy="162.93"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="309.80"
+    cy="172.41"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="321.76"
+    cy="172.41"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="333.73"
+    cy="180.00"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="345.69"
+    cy="180.00"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="357.65"
+    cy="172.41"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="369.61"
+    cy="172.41"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="381.57"
+    cy="164.83"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="393.53"
+    cy="176.21"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="405.49"
+    cy="161.03"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="417.45"
+    cy="168.62"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="429.41"
+    cy="162.93"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="441.37"
+    cy="174.31"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="453.33"
+    cy="164.83"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="465.29"
+    cy="180.00"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="477.25"
+    cy="180.00"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="489.22"
+    cy="180.00"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="501.18"
+    cy="176.21"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="513.14"
+    cy="178.10"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="525.10"
+    cy="174.31"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="537.06"
+    cy="170.52"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="549.02"
+    cy="149.66"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="560.98"
+    cy="109.83"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="572.94"
+    cy="70.00"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="584.90"
+    cy="98.45"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="596.86"
+    cy="170.52"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="608.82"
+    cy="149.66"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="620.78"
+    cy="180.00"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="632.75"
+    cy="180.00"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="644.71"
+    cy="170.52"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="656.67"
+    cy="178.10"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="668.63"
+    cy="178.10"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="680.59"
+    cy="159.14"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="692.55"
+    cy="136.38"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="704.51"
+    cy="134.48"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="716.47"
+    cy="142.07"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="728.43"
+    cy="121.21"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="740.39"
+    cy="162.93"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="752.35"
+    cy="168.62"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="764.31"
+    cy="180.00"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="776.27"
+    cy="178.10"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="788.24"
+    cy="166.72"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="800.20"
+    cy="180.00"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="812.16"
+    cy="180.00"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="824.12"
+    cy="180.00"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="836.08"
+    cy="180.00"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="848.04"
+    cy="180.00"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+
+<circle
+    cx="860.00"
+    cy="161.03"
+    r="2.5"
+    fill="#A9FEF7"/>
+
+</svg>
