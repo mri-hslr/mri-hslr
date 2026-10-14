@@ -39,7 +39,7 @@ viewBox="0 0 900 420">
 <rect
     x="180"
     y="63"
-    width="382.86"
+    width="382.68"
     height="10"
     rx="5"
     fill="#3572A5"/>
@@ -49,14 +49,14 @@ viewBox="0 0 900 420">
     y="75"
     font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
     font-size="12"
-    fill="#8B949E">79.8% bytes</text>
+    fill="#8B949E">79.7% bytes</text>
 
 <text
     x="800"
     y="75"
     font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
     font-size="12"
-    fill="#8B949E">15.8% repos</text>
+    fill="#8B949E">15.6% repos</text>
 
 
 <text
@@ -77,7 +77,7 @@ viewBox="0 0 900 420">
 <rect
     x="180"
     y="103"
-    width="47.23"
+    width="47.43"
     height="10"
     rx="5"
     fill="#f1e05a"/>
@@ -87,14 +87,14 @@ viewBox="0 0 900 420">
     y="115"
     font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
     font-size="12"
-    fill="#8B949E">9.8% bytes</text>
+    fill="#8B949E">9.9% bytes</text>
 
 <text
     x="800"
     y="115"
     font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
     font-size="12"
-    fill="#8B949E">19.7% repos</text>
+    fill="#8B949E">20.8% repos</text>
 
 
 <text
@@ -115,7 +115,7 @@ viewBox="0 0 900 420">
 <rect
     x="180"
     y="143"
-    width="18.80"
+    width="18.79"
     height="10"
     rx="5"
     fill="#00B4AB"/>
@@ -153,7 +153,7 @@ viewBox="0 0 900 420">
 <rect
     x="180"
     y="183"
-    width="11.11"
+    width="11.10"
     height="10"
     rx="5"
     fill="#3178c6"/>
@@ -191,7 +191,7 @@ viewBox="0 0 900 420">
 <rect
     x="180"
     y="223"
-    width="9.00"
+    width="8.99"
     height="10"
     rx="5"
     fill="#663399"/>
@@ -208,7 +208,7 @@ viewBox="0 0 900 420">
     y="235"
     font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
     font-size="12"
-    fill="#8B949E">17.1% repos</text>
+    fill="#8B949E">16.9% repos</text>
 
 
 <text
@@ -246,7 +246,7 @@ viewBox="0 0 900 420">
     y="275"
     font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace"
     font-size="12"
-    fill="#8B949E">25.0% repos</text>
+    fill="#8B949E">24.7% repos</text>
 
 
 <text
